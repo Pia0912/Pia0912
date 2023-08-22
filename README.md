@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Pia
-- 🔭 I’m currently working on my capstone project[PassionPin](https://cgn-java-23-2-pia.capstone-project.de)
+- 🔭 I’m currently working on my capstone project [PassionPin](https://cgn-java-23-2-pia.capstone-project.de)
 
   
 # 💻 Tech Stack:
